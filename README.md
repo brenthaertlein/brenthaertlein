@@ -4,7 +4,10 @@
 - improving resilience of critical public safety systems
 
 ### 🌱 I’m currently learning ...
-- machine learning
+- improving ci/cd
+- machine learning (math)
+- agentic ai development
+- data fabric concepts
 
 ### 👯 I’m looking to collaborate on ...
 - passion projects
@@ -24,3 +27,4 @@
 
 ### ⚡ Fun fact: ...
 - I moonlight as a photographer
+- I love plants and gardening
